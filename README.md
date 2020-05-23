@@ -6,6 +6,6 @@ How to use
 	* findomain (https://github.com/Edu4rdSHL/findomain)
 	* httprobe  (https://github.com/tomnomnom/httprobe)
 	* ffuf	    (https://github.com/ffuf/ffuf)
-3) Either put the wordlist in the same directory or edit the code at the line 72 (after -w put the full path)
+3) Either put the wordlist in the same directory or edit the code at the line 72 (after -w put the full path) and save it as wordlist
 
 Enjoy	
